@@ -1,6 +1,6 @@
-# PyProject_2
-Инструкции по конфигурации и установке (Истинный путь):
-установить Python https://www.python.org/downloads/
+# WeatherSavaBot
+# Инструкции по конфигурации и установке (Истинный путь):
+Установить Python https://www.python.org/downloads/
 Установить pyowm (В командной строке от имени администратора вводим: "pip install pyowm" без кавычек)
 Установить pyTelegramBotAPI ("pip install pyTelegramBotAPI")
 Регистрируемся на сайте погоды https://openweathermap.org/, получаем ключ API
